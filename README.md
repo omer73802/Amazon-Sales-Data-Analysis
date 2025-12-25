@@ -8,9 +8,9 @@ key revenue drivers.
 ## Key Questions
 - What are the total and average sales?
 - Which product categories generate the highest revenue?
-- How do sales trends change over time?
+- Which seller gained higher profit on average?
 - Are there categories with high volume but low revenue?
-- 
+  
 ## Data Sources
 -Amazon Sales Dataset
 
