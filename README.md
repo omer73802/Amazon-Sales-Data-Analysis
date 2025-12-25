@@ -20,3 +20,5 @@ key revenue drivers.
 -Category-level analysis indicates relatively uniform average order values and total revenue across categories, suggesting that category alone is not a strong differentiator of purchasing behavior in this dataset
 
 -Discount analysis reveals a clear negative relationship between discount size and average order value. Higher discounts are associated with lower average transaction values and do not lead to increased total revenue, suggesting that aggressive discounting is not an effective sales growth strategy in this dataset
+
+-Seller-level analysis revealed distinct sales strategies across sellers. While some sellers generate high total revenue through large transaction volumes, others achieve higher average order values with fewer orders. This highlights the importance of balancing sales volume and transaction value
